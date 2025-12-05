@@ -1,9 +1,7 @@
 # Archivos de datos
 data/
 *.gpkg
-*.shp
-*.dbf
-*.shx
+
 
 # Python
 __pycache__/
