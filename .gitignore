@@ -1,8 +1,3 @@
-# Archivos de datos
-data/
-*.gpkg
-
-
 # Python
 __pycache__/
 *.pyc
