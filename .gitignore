@@ -1,0 +1,15 @@
+# Archivos de datos
+data/
+*.gpkg
+*.shp
+*.dbf
+*.shx
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Sistema
+.DS_Store
